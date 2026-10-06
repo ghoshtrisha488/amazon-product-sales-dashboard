@@ -1,3 +1,4 @@
+<img width="2028" height="1290" alt="Amazon-product-sales" src="https://github.com/user-attachments/assets/10f51dbb-970d-44bd-9ae3-28a91ef0b325" />
 # 📊 Amazon Products Sales Analysis Dashboard
 
 An end-to-end business intelligence dashboard built in Power BI to analyze e-commerce retail performance, revenue drivers, sales velocity, and customer review metrics[cite: 1].
